@@ -1,2 +1,3 @@
-# Sizafit
-System Informasi Zakat Fitrah ( SIZAFIT) Mushola Al - Islah Nur Desa Sokoagung, Bagelen, Purworejo
+# Sizafit ( System Informasi Zakat Fitrah ) Musholla Al-Islah Nur Desa Sokoagung, Bagelen, Purworejo
+
+#Comming-Soon ......
